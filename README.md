@@ -4,20 +4,20 @@
 
 ###
 
+<p align="left">Welcome to my GitHub Profile. I'm a data analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Excel, Python. As a dedicated Data Analyst with a keen eye for detail, I excel at transforming complex datasets into clear, actionable insights. My expertise lies in statistical analysis, data modeling, and data visualization, allowing me to drive informed decision-making and uncover meaningful patterns in data.</p>
+
+###
+
 <div align="center">
   <img height="400" src="https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722643200&semt=ais_hybrid"  />
 </div>
 
 ###
 
-<p align="left">Welcome to my GitHub Profile. I'm a data analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Excel, Python. As a dedicated Data Analyst with a keen eye for detail, I excel at transforming complex datasets into clear, actionable insights. My expertise lies in statistical analysis, data modeling, and data visualization, allowing me to drive informed decision-making and uncover meaningful patterns in data.</p>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritha-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amritha-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=amritha-code&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Let's Connect</h2>
 
 ###
 
@@ -70,6 +70,11 @@
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/amritha-code/amritha-code/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+
