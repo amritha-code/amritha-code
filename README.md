@@ -4,7 +4,8 @@
 
 ###
 
-<p align="left">Welcome to my GitHub Profile. I'm a data analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Excel, Python. As a dedicated Data Analyst with a keen eye for detail, I excel at transforming complex datasets into clear, actionable insights. My expertise lies in statistical analysis, data modeling, and data visualization, allowing me to drive informed decision-making and uncover meaningful patterns in data.</p>
+<p align="left">Welcome to my GitHub Profile. I'm a data analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Excel, Python. As a dedicated Data Analyst with a keen eye for detail, I excel at transforming complex datasets into clear, actionable insights. My expertise lies in statistical analysis, data modeling, and data visualization, allowing me to drive informed decision-making and uncover meaningful patterns in data.
+  You can connect with me on : https://www.linkedin.com/in/amritha-k-180277222/ </p>
 
 ###
 
